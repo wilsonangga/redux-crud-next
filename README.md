@@ -31,7 +31,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 
 # Run JSON Server
+```bash
 json-server -w db.json -p 5000
+```
 
 ## Deploy on Vercel
 
